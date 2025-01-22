@@ -1,0 +1,26 @@
+{
+  "name": "verificatps",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackGrassi/VerificaTPS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JackGrassi/VerificaTPS/issues"
+  },
+  "homepage": "https://github.com/JackGrassi/VerificaTPS#readme",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "express": "^4.21.2",
+    "inquirer": "^12.3.2",
+    "sqlite3": "^5.1.7"
+  }
+}
